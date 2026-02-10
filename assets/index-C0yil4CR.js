@@ -13038,7 +13038,7 @@ const cg = Qn(
       ],
     });
   },
-  zg = "/assets/footer-0q2meQ2r.png",
+  zg = "/Undertale/assets/footer-0q2meQ2r.png",
   Rg = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/,
   pi = "hsl(60, 76%, 47%)",
   Lg = () => {
