@@ -9054,7 +9054,7 @@ function Jf() {
 var X0 = Ya.exports,
   wa = X0;
 ((ul.createRoot = wa.createRoot), (ul.hydrateRoot = wa.hydrateRoot));
-const q0 = "/assets/landing-BsH1j6ZF.png";
+const q0 = "/Undertale/assets/landing-BsH1j6ZF.png";
 function ts() {
   return (
     (ts = Object.assign
