@@ -9551,9 +9551,9 @@ const J0 = () => {
     })
   );
 },
-  ka = "/assets/feature-NP4vUOSh.png",
-  eh = "/assets/feature2-CuZ6rxgZ.png",
-  th = "/assets/feature4-CHbb_5Em.png",
+  ka = "/Undertale/assets/feature-NP4vUOSh.png",
+  eh = "/Undertale/assets/feature2-CuZ6rxgZ.png",
+  th = "/Undertale/assets/feature4-CHbb_5Em.png",
   ol = ({ title: e, currentIndex: t }) =>
     y.jsx("div", {
       className: "app__landing__newFeatures-feature",
@@ -12841,9 +12841,9 @@ const cg = Qn(
       ],
     });
   },
-  _g = "/assets/humor-DHJTo6DJ.png",
-  Ag = "/assets/story-CftrJhLs.png",
-  kd = "/assets/combat-Dvs9l_EJ.png",
+  _g = "/Undertale/assets/humor-DHJTo6DJ.png",
+  Ag = "/Undertale/assets/story-CftrJhLs.png",
+  kd = "/Undertale/assets/combat-Dvs9l_EJ.png",
   Eg = [
     {
       title: "Non-linear narrative and meaningful decisions",
@@ -12890,7 +12890,7 @@ const cg = Qn(
         ],
       }),
     }),
-  Tg = "/assets/awards4-BuyCH8xy.png",
+  Tg = "/Undertale/assets/awards4-BuyCH8xy.png",
   Ng = () => {
     const e = j.useRef(null),
       t = j.useRef(null),
